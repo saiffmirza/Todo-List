@@ -8,3 +8,4 @@
 2. To add Bootstrap 4 to your project, you go to the website, copy the code and paste into index.html in the public folder.
 3. useEffect is used to make calls to our REST APIs.
 4. useState is used to store the value in our text box.
+5. w3schools is a great resource for finding Bootstrap4 stuff.
