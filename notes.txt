@@ -1,0 +1,10 @@
+- Server Side:
+1. installing express: helps quickly set up a server in nodejs
+2. installing cors:    allows different domain applications to interact with each other
+3. installing pg:      connect our database with our server in order to run some Postgres queries
+
+- Client Side: 
+1. When creating a React app, a whole boilerplate app is created, with a lot of extra things that may not be necessary. 
+2. To add Bootstrap 4 to your project, you go to the website, copy the code and paste into index.html in the public folder.
+3. useEffect is used to make calls to our REST APIs.
+4. useState is used to store the value in our text box.
