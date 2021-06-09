@@ -1,3 +1,5 @@
+-- Copy these into Postgres to set up table
+
 CREATE DATABASE perntodo;
 
 CREATE TABLE todo(
