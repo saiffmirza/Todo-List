@@ -15,7 +15,7 @@ const ListTodo = () => {
 			console.error(err.message);
 		}
 	};
-	const getTodos = async (e) => {
+	const getTodos = async () => {
 		try {
 			const response = await fetch("http://localhost:5000/todos");
 			const jsonData = await response.json();
